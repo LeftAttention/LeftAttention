@@ -14,6 +14,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeftAttention&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## :bar_chart: Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftAttention&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
