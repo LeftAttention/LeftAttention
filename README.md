@@ -9,7 +9,7 @@
 - 📫 How to reach me: [info.annagaming@gmail.com](mailto:info.annagaming@gmail.com)
 
 
-## chart_with_upwards_trend GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeftAttention&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
