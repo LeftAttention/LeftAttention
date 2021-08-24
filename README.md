@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hello , 😄 I am Kaibalya Bhuyan ✨
+
+***
+
+- 🔭 I’m currently working at Electronic Arts.
+- 🔭 I’m currently working on *transformers in computer vision*
+- 🌱 I’m currently learning *attention in computer vision*
+- 👯 I’m looking to collaborate on *how to train a segmentation model with GAN*
+- 📫 How to reach me: [info.annagaming@gmail.com](mailto:info.annagaming@gmail.com)
 
 <!--
 **LeftAttention/LeftAttention** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
