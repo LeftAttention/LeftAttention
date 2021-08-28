@@ -2,7 +2,7 @@
 
 ***
 
-- 🔭 I’m currently working at Electronic Arts.
+- 🔭 I’m currently working as a researcher at Electronic Arts.
 - 🔭 I’m currently working on *transformers in computer vision*
 - 🌱 I’m currently learning *attention in computer vision*
 - 👯 I’m looking to collaborate on *how to train a segmentation model with GAN*
