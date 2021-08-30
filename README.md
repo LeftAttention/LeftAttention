@@ -20,11 +20,11 @@
 
 ## :panda_face: Highlight Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeftAttention&repo=Transformer-Unet&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeftAttention&repo=Transformer-Unet&theme=outrun)](https://github.com/LeftAttention/Transformer-Unet)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeftAttention&repo=Attention-Codebase&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeftAttention&repo=Attention-Codebase&theme=outrun)](https://github.com/LeftAttention/Attention-Codebase)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeftAttention&repo=image-classification-using-transformers&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeftAttention&repo=image-classification-using-transformers&theme=outrun)](https://github.com/LeftAttention/image-classification-using-transformers)
 
 <!--
 **LeftAttention/LeftAttention** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
