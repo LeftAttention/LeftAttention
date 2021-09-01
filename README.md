@@ -11,12 +11,12 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeftAttention&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeftAttention&count_private=true&show_icons=true&theme=tokyonight)](hhttps://github.com/LeftAttention)
 
 
 ## :bar_chart: Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftAttention&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftAttention&layout=compact)](https://github.com/LeftAttention)
 
 ## :panda_face: Highlight Projects
 
