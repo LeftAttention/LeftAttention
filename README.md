@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a researcher.
 - 🔭 I’m currently working on *transformers in computer vision*
 - 🌱 I’m currently learning *attention in computer vision*
-- 👯 I’m looking to collaborate on *how to train a segmentation model with GAN*
+- 👯 I’m looking to collaborate on *Multimodal Modeling*
 - 📫 How to reach me: [info.annagaming@gmail.com](mailto:info.annagaming@gmail.com)
 
 
