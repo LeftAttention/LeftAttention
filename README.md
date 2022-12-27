@@ -16,6 +16,9 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeftAttention&count_private=true&show_icons=true&theme=tokyonight)](hhttps://github.com/LeftAttention)
 
+<!-- [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/LeftAttention/LeftAttention@output/github-contribution-grid-snake.svg)](https://github.com/LeftAttention) -->
+<!-- [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/LeftAttention/LeftAttention@output/github-contribution-grid-snake-dark.svg)](https://github.com/LeftAttention) -->
+[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/LeftAttention/LeftAttention@output/github-contribution-grid-snake-dark.gif)](https://github.com/LeftAttention)
 
 ## :bar_chart: Languages
 
