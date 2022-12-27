@@ -1,5 +1,8 @@
 ### 👋 Hello , 😄 I am Kaibalya Bhuyan ✨
 
+<a href="https://github.com/LeftAttention"><img src="https://komarev.com/ghpvc/?username=LeftAttention" alt="LeftAttention" /></a>
+<a href="https://github.com/LeftAttention?tab=followers"><img src="https://img.shields.io/github/followers/LeftAttention"></a>
+
 ***
 
 - 🔭 I’m currently working as a researcher.
