@@ -19,7 +19,7 @@
 ![kaibalya's github stats](https://github-readme-stats.vercel.app/api?&username=LeftAttention&show_icons=true&count_private=true&hide=prs&theme=onedark)
 
 
-[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/LeftAttention/LeftAttention@output/github-contribution-grid-snake-dark.gif)](https://github.com/LeftAttention)
+![Snake animation](https://github.com/LeftAttention/LeftAttention/blob/output/github-contribution-grid-snake.svg)
 
 
 ## :bar_chart: Languages
